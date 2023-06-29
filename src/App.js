@@ -11,19 +11,19 @@ function App() {
     },
     {
       id: "exp2",
-      date: new Date(2023, 1, 10),
+      date: new Date(2020, 1, 10),
       title: "Groceries",
       amount: 1700,
     },
     {
       id: "exp3",
-      date: new Date(2023, 1, 16),
+      date: new Date(2021, 1, 16),
       title: "Cricket Kit",
       amount: 16000,
     },
     {
       id: "exp4",
-      date: new Date(2023, 1, 17),
+      date: new Date(2019, 1, 17),
       title: "House Rent",
       amount: 12000,
     },
